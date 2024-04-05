@@ -4,7 +4,7 @@ This is an AI/ML project to predict 1980 California districts housing prices.
 
 ## Data
 
-I used the dataset of housing prices in California districts collected in 1980 census. The dataset can be found [here] (https://www.kaggle.com/datasets/yasserh/housing-prices-dataset)
+I used the dataset of housing prices in California districts collected in 1980 census. The dataset can be found [here](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset)
 
 ## Methods
 
