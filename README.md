@@ -12,7 +12,7 @@ I first performed some basic explorative steps to get to know the dataset then u
 
 After those steps, I found that the result are around the 80% accurate mark but does not improve no matter how many different hyperparameter I experimented with.
 
-I had a "feeling" or intuition that the housing prices are somewhat "sticky" to the historically expensive cities, in a sense that are similar to how the trading markets have "memories" of past price points (See [here] (https://www.investopedia.com/terms/m/memory-of-price-strategy.asp) for more details).
+I had a "feeling" or intuition that the housing prices are somewhat "sticky" to the historically expensive cities, in a sense that are similar to how the trading markets have "memories" of past price points (See [here](https://www.investopedia.com/terms/m/memory-of-price-strategy.asp) for more details).
 
 So, to assess and quantify this intuition, I set out to create a "sieve" of longitude and latitude, and for each district, I add the distance between that district and each of the coordinates in the sieve. And this not only proves that some coordinates are significant impact towards the housing prices but also more impactful than some other reasons I had considered before.
 
