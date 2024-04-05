@@ -1,4 +1,4 @@
-# california-housing
+# 1980 California housing price prediction 
 
 This is an AI/ML project to predict 1980 California districts housing prices.
 
